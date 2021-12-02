@@ -22,4 +22,9 @@
  * I don't believe that the company has enough qualified mentors.  My findings found that there are only 1,549 mentors while there are over 90,000 jobs coming available.
  * I would recommend for the company to dive further into the mentorship eligible employees to see what jobs they have
  * I created a new table that similar to the one above it shows the titles of mentorship eligible employees:
+  ![](mentor_titles.png)
+ * This shows that the mentor employees have a similar distribution of jobs that need to be filled. However there are no mentors at the manager level.
+ * The next step I would take would be to look at which departments both the retirees and mentors work in.
+ * I created tables for both of these shown below:
+ * 
  
