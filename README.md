@@ -10,3 +10,11 @@
   * Of the 90,000 people eligible for retirement, only 2 have jobs at the Manager Level
   * The majority of people retiring (57,668 or 64%) have jobs at the Senior Level
   * There are 1,549 people at the company who are eligible to participate in the Mentorship Program.
+ Below is an image of the table I created showing number of employees who are retiring by job title:
+ <br>
+ 
+ ![](retiring_titles.png)
+ ## Summary
+ * In summary, my analysis found that the company will have 90,398 roles to fill due to people approaching retirement age
+ * 
+ 
