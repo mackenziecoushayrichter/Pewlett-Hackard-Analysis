@@ -26,5 +26,7 @@
  * This shows that the mentor employees have a similar distribution of jobs that need to be filled. However there are no mentors at the manager level.
  * The next step I would take would be to look at which departments both the retirees and mentors work in.
  * I created tables for both of these shown below:
- * 
+ <br>
+ 
+ ![](retire_dept.png).  ![](mentor_dept.png)
  
